@@ -1,0 +1,30 @@
+HTML (원하는 태그) TAG ← 궁금한거 찾을 때
+
+<!doctype html> 이 문서는 html이란 것을 설명함 - 주로 맨 위에 적고 시작함
+<html> </html> head 와 body를 감쌈
+<head> </head> 본문을 설명함/body를 설명함
+<body> </body> 본문
+<title> </title> 홈페이지 이름
+<meta charset=""> 홈페이지에 한글을 썼는데 이상하게 나올경우 이 파일의 형식을 "" 사이에
+                  넣으면 정상적으로 글씨가 나옴
+                  ex)<meta charset="utf-8">
+
+<br> 줄바꿈
+<p> </p> 단락을 나눔
+
+<h1~6> </h1~6> (1>6) 글자 크키
+<strong> </strong> 글자 굵게
+<u> [underline] 글자에 밑줄
+
+<img source=""> <img scr=""> 사진
+<img scr="" width=""> ← width="" 같은 경우 사진 크기 조정
+<img scr="" width=""> scr="" width="" 이 두개의 순서는 어떻게 쓰든 상관 없음
+
+속성 (중요함)
+source="", scr=""
+width=""
+
+목차
+<ul> </ul> 책장 [Unordered list]
+<li> </li> 책
+<ol> </ol> 책 앞에 숫자들을 붙여줌 책장 대신 [ordered List]
